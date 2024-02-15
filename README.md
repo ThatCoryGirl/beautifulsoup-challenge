@@ -20,7 +20,7 @@ Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
 Open the Jupyter Notebook in the starter code folder named `part_1_mars_news.ipynb`. You will work in this code as you follow the steps below to scrape the Mars News website.
 
-Use automated browsing to visit the Mars news siteLinks to an external site.. Inspect the page to identify which elements to scrape.
+Use automated browsing to visit the [Mars news site](https://static.bc-edx.com/data/web/mars_news/index.html) Inspect the page to identify which elements to scrape.
 
 Hint: To identify which elements to scrape, you might want to inspect the page by using Chrome DevTools.
 
