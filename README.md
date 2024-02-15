@@ -80,6 +80,8 @@ Export the DataFrame to a CSV file.
 
 # **Citations:**
 
+Instructor: [Othmane Benyoucef](https://www.linkedin.com/in/othmane-benyoucef-219a8637/)
+
 [get_text()](https://www.educative.io/answers/how-to-use-gettext-in-beautiful-soup) Enables us to extract the textual content of an HTML element.
 
 Instructor: [Othmane Benyoucef](https://www.linkedin.com/in/othmane-benyoucef-219a8637/)
